@@ -1,0 +1,69 @@
+{
+  "file_type": "reading",
+  "analysis_timestamp": "2025-08-05T14:47:18",
+  "feature_importance": {
+    "top_10_features": [
+      {
+        "name": "MFCC 6",
+        "importance": 0.0031573500018566847,
+        "category": "Other"
+      },
+      {
+        "name": "MFCC \u0394 10",
+        "importance": 0.002342749387025833,
+        "category": "Other"
+      },
+      {
+        "name": "DOCC \u0394 8",
+        "importance": 0.0022896556183695793,
+        "category": "Other"
+      },
+      {
+        "name": "MFCC 4",
+        "importance": 0.0022748266346752644,
+        "category": "Other"
+      },
+      {
+        "name": "MFCC 11",
+        "importance": 0.0022110729478299618,
+        "category": "Other"
+      },
+      {
+        "name": "DOCC 3",
+        "importance": 0.002123611280694604,
+        "category": "Other"
+      },
+      {
+        "name": "F0",
+        "importance": 0.002023657551035285,
+        "category": "Other"
+      },
+      {
+        "name": "DOCC 0",
+        "importance": 0.001910159713588655,
+        "category": "Other"
+      },
+      {
+        "name": "MFCC 0",
+        "importance": 0.0019032079726457596,
+        "category": "Other"
+      },
+      {
+        "name": "DOCC \u0394 2",
+        "importance": 0.001866377191618085,
+        "category": "Other"
+      }
+    ],
+    "category_importance": {}
+  },
+  "clinical_insights": {
+    "most_important_features": [
+      "MFCC 6",
+      "MFCC \u0394 10",
+      "DOCC \u0394 8",
+      "MFCC 4",
+      "MFCC 11"
+    ],
+    "most_important_categories": []
+  }
+}

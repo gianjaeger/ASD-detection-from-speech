@@ -1,0 +1,16 @@
+{
+    "prolific_id": "debug_participant_id",
+    "fullName": "G L",
+    "age": "45",
+    "gender": "male",
+    "ethnicity": "white",
+    "state": "FL",
+    "firstLanguage": "English",
+    "device": "laptop_external",
+    "deviceModel": "Dell Inspiron 7472",
+    "environment": "quiet_home",
+    "ageDiagnosed": "13",
+    "how_diagnosis_made": "medical_doctor",
+    "autism_severity": "moderate",
+    "coOccurringConditions": "OCD, anxiety, Tourette's"
+}

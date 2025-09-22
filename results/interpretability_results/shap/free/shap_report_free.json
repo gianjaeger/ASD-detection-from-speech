@@ -1,0 +1,69 @@
+{
+  "file_type": "free",
+  "analysis_timestamp": "2025-08-05T14:43:13",
+  "feature_importance": {
+    "top_10_features": [
+      {
+        "name": "MFCC 1",
+        "importance": 0.0029974656645208597,
+        "category": "Other"
+      },
+      {
+        "name": "F0",
+        "importance": 0.0026450371369719505,
+        "category": "Other"
+      },
+      {
+        "name": "MFCC 0",
+        "importance": 0.002556239953264594,
+        "category": "Other"
+      },
+      {
+        "name": "F3",
+        "importance": 0.0023962699342519045,
+        "category": "Other"
+      },
+      {
+        "name": "F2",
+        "importance": 0.0020863038953393698,
+        "category": "Other"
+      },
+      {
+        "name": "Energy",
+        "importance": 0.002067349385470152,
+        "category": "Other"
+      },
+      {
+        "name": "MFCC 0",
+        "importance": 0.001995986793190241,
+        "category": "Other"
+      },
+      {
+        "name": "DOCC 5",
+        "importance": 0.001925888704136014,
+        "category": "Other"
+      },
+      {
+        "name": "MFCC 3",
+        "importance": 0.0018731474410742521,
+        "category": "Other"
+      },
+      {
+        "name": "MFCC 1",
+        "importance": 0.0018700814107432961,
+        "category": "Other"
+      }
+    ],
+    "category_importance": {}
+  },
+  "clinical_insights": {
+    "most_important_features": [
+      "MFCC 1",
+      "F0",
+      "MFCC 0",
+      "F3",
+      "F2"
+    ],
+    "most_important_categories": []
+  }
+}

@@ -1,0 +1,18 @@
+{
+    "prolific_id": "667dff584b72be8e8cf6b196",
+    "fullName": "Theresa Smith",
+    "age": "42",
+    "gender": "female",
+    "ethnicity": "white",
+    "state": "South Dakota",
+    "firstLanguage": "English",
+    "device": "laptop_builtin",
+    "deviceModel": "Asus Vivobook M1605",
+    "environment": "quiet_home",
+    "ageDiagnosed": "40",
+    "how_diagnosis_made": "licensed_psychologist",
+    "formal_assessment_tool_used": "yes",
+    "exactFormalTool": "ADOS",
+    "autism_severity": "moderate",
+    "coOccurringConditions": "ADHD, anxiety, depression, ocd"
+}

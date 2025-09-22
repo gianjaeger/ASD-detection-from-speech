@@ -1,0 +1,6 @@
+{
+  "best_fold": 4,
+  "best_f1_score": 0.9,
+  "best_model_path": "five_fold_splits/picture/best_model_picture.pt",
+  "original_model_path": "five_fold_splits/picture/fold_4/best_model_fold_4.pt"
+}
