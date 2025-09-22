@@ -1,16 +1,7 @@
 # Master’s Thesis: A Deep Learning Framework for Detecting Autism Spectrum Disorder from Speech
 
 ## Abstract  
-Autism Spectrum Disorder (ASD) is currently diagnosed through standardised assessments administered by clinicians who observe an individual's behaviour as they complete structured tasks. This process is cost- and time-intensive, while also retaining an element of subjectivity.  
-
-To complement the traditional diagnostic pipeline, we propose a deep learning framework designed to detect ASD from speech. Data was collected via **Prolific**, where three standardised speech tasks were administered to **60 participants with ASD** and **60 participants without ASD**.  
-
-We process this data using a **Hierarchical Attention Temporal Convolutional Network (HATCN)** trained on interpretable numerical representations of speech.  
-
-Our results are promising:  
-- The model achieves an **accuracy of 83%**.  
-- Performance varies across the three tasks, suggesting that ASD manifests differently depending on context.  
-- A **SHapley Additive exPlanations (SHAP) analysis** provides interpretability, highlighting the speech features most relevant to prediction.  
+Autism Spectrum Disorder (ASD) is currently diagnosed through standardised assessments administered by clinicians who observe an individual's behaviour as they complete a series of structured tasks. This means that the diagnostic process is not only cost- and time-intensive, but also retains an element of subjectivity. To complement this traditional diagnostic pipeline, we propose a deep learning framework designed to detect ASD from speech. We first collect the data needed to train this model through Prolific by administering three standardised speech tasks to 60 people with ASD and 60 people without. To process this data, we propose a Hierarchical Attention Temporal Convolutional Network (HATCN) trained on interpretable numerical representations of speech from participants in both groups. Our results are promising. First, they reveal that our model can identify ASD with an accuracy of 83\%. Second, we find that performance differs considerably across the three tasks, indicating that the manifestation of ASD varies by context. These findings are further supported by our SHapley Additive exPlanations (SHAP) analysis, which ensures that the model remains interpretable by providing insights into speech features most relevant to the predictive process.
 
 ---
 
