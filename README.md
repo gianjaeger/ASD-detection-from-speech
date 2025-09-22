@@ -18,8 +18,7 @@ The pipeline consists of 4 main scripts that should be run in sequence:
 
 ## Data Availability
 
-The folder **step3-normalized_data**, which should contain all collected speech snippets, is left empty for privacy and storage reasons.  
-Researchers or interested parties may request access to the original audio recordings directly from the author.
+The folder **step3-normalized_data**, which should contain all collected speech snippets, is left empty for privacy and storage reasons. Please contact me for access to raw audio recordings.
 
 ## Quick Start
 
