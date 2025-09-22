@@ -16,6 +16,11 @@ The pipeline consists of 4 main scripts that should be run in sequence:
 
 **Important**: This is participant-level cross-validation, meaning all segments from the same participant stay in the same fold to prevent data leakage.
 
+## Data Availability
+
+The folder **step3-normalized_data**, which should contain all collected speech snippets, is left empty for privacy and storage reasons.  
+Researchers or interested parties may request access to the original audio recordings directly from the author.
+
 ## Quick Start
 
 ```bash
