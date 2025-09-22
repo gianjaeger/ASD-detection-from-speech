@@ -5,7 +5,7 @@ Autism Spectrum Disorder (ASD) is currently diagnosed through standardised asses
 
 ---
 
-## Code Rundown 
+## Code Overview 
 
 The pipeline consists of 4 main scripts that should be run in sequence:
 
