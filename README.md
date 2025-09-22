@@ -1,8 +1,20 @@
-# 5-Fold Cross-Validation Pipeline for Autism Detection
+# Master’s Thesis: A Deep Learning Framework for Detecting Autism Spectrum Disorder from Speech
 
-This pipeline implements 5-fold cross-validation for autism detection from speech using the HATCN model architecture.
+## Abstract  
+Autism Spectrum Disorder (ASD) is currently diagnosed through standardised assessments administered by clinicians who observe an individual's behaviour as they complete structured tasks. This process is cost- and time-intensive, while also retaining an element of subjectivity.  
 
-## Pipeline Overview
+To complement the traditional diagnostic pipeline, we propose a deep learning framework designed to detect ASD from speech. Data was collected via **Prolific**, where three standardised speech tasks were administered to **60 participants with ASD** and **60 participants without ASD**.  
+
+We process this data using a **Hierarchical Attention Temporal Convolutional Network (HATCN)** trained on interpretable numerical representations of speech.  
+
+Our results are promising:  
+- The model achieves an **accuracy of 83%**.  
+- Performance varies across the three tasks, suggesting that ASD manifests differently depending on context.  
+- A **SHapley Additive exPlanations (SHAP) analysis** provides interpretability, highlighting the speech features most relevant to prediction.  
+
+---
+
+## Code Rundown 
 
 The pipeline consists of 4 main scripts that should be run in sequence:
 
